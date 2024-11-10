@@ -19,7 +19,7 @@ I am currently pursuing a degree in video game development.
 
 ## **GitHub Stats**
 
-![Starmise github stats](https://github-readme-stats.vercel.app/api?username=Starmise&show_icons=true&theme=gotham&count_private=true&include_all_commits=true)
+<!--![Starmise github stats](https://github-readme-stats.vercel.app/api?username=Starmise&show_icons=true&theme=gotham&count_private=true&include_all_commits=true)-->
 
 ![Starmise github streak](https://github-readme-streak-stats.herokuapp.com/?user=Starmise&theme=gotham&include_all_commits=true&count_private=true)
 
