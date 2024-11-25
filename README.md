@@ -29,7 +29,7 @@ I am currently pursuing a degree in video game development.
 
 ## **Connect with Me**
 
-[LinkedIn](https://www.linkedin.com/in/luis-angel-rosaldo-gonz%C3%A1lez-4a85a2292/) | [Instagram](https://www.instagram.com/starmise) | [Twitter](https://x.com/kyrbowithY) | [Spotify](https://open.spotify.com/user/lu1srm27?si=fdaf04db03cf496a)
+[LinkedIn](https://www.linkedin.com/in/luis-angel-rosaldo-gonz%C3%A1lez-4a85a2292/) | [Instagram](https://www.instagram.com/l_starmise/) | [Twitter](https://x.com/kyrbowithY) | [Spotify](https://open.spotify.com/user/lu1srm27?si=fdaf04db03cf496a)
 
 
 <!--
