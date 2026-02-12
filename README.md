@@ -38,14 +38,6 @@ Additional tools and libraries: SFML, DirectX11, ImGui
 
 ---
 
-## What I’m Working On
-
-- Gameplay systems and AI behaviors in Unity  
-- Experimental mechanics and prototypes  
-- Personal tools and creative coding projects  
-
----
-
 ## GitHub Stats
 
 ![Starmise github streak](https://github-readme-streak-stats.herokuapp.com/?user=Starmise&theme=gotham&include_all_commits=true&count_private=true)
@@ -54,7 +46,7 @@ Additional tools and libraries: SFML, DirectX11, ImGui
 
 ---
 
-## Connect with Me
+## Connect with Me!
 
 [LinkedIn](https://www.linkedin.com/in/luis-angel-rosaldo-gonz%C3%A1lez-4a85a2292/) |
 [Instagram](https://www.instagram.com/l_starmise/) |
