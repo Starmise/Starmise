@@ -1,25 +1,52 @@
-# **Welcome to my GitHub!**
-> "Exploring the unknown, one step at a time."
+# Welcome to my GitHub!
+> "Exploring the unknown, one system at a time."
 
-## **About Me**
+## About Me
 
-🌌 Developer | 🎮 Game Designer | 🎶 Music Enthusiast
+Game Developer | Software Engineer | Creative Technologist  
 
-I’m a passionate developer working on creating immersive experiences, whether it’s a game, a Photoshop edit, or anything in-between.
+I’m a **recent graduate in Game Development**, passionate about building interactive systems, gameplay mechanics, and tools that blend **technology and creativity**.
+
+I enjoy working on:
+- Gameplay programming and AI behaviors  
+- Systems-oriented design  
+- Visual experimentation (UI, shaders, post-processing)  
+- Creative side projects (games, tools, music-driven ideas)
+
+Currently open to **junior / trainee opportunities** in game development or software engineering.
 
 ---
-<!--
-## Projects
 
-### 🚀 Game Developer
-I am currently pursuing a degree in video game development.
+<!-- Technologies section -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">Technologies and Tools I Use</h2>
+    </summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal,git,github,visualstudio,vscode,css,html,blender,photoshop,illustrator,figma,firebase,python,flutter,dart,robloxstudio,sass,pycharm,py,notion,discord&perline=6" />
+  </a>
+</p>
+
+<p align="center">
+Additional tools and libraries: SFML, DirectX11, ImGui
+</p>
 
 ---
--->
 
-## **GitHub Stats**
+## What I’m Working On
 
-<!--![Starmise github stats](https://github-readme-stats.vercel.app/api?username=Starmise&show_icons=true&theme=gotham&count_private=true&include_all_commits=true)-->
+- Gameplay systems and AI behaviors in Unity  
+- Experimental mechanics and prototypes  
+- Personal tools and creative coding projects  
+
+---
+
+## GitHub Stats
 
 ![Starmise github streak](https://github-readme-streak-stats.herokuapp.com/?user=Starmise&theme=gotham&include_all_commits=true&count_private=true)
 
@@ -27,22 +54,15 @@ I am currently pursuing a degree in video game development.
 
 ---
 
-## **Connect with Me**
+## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/luis-angel-rosaldo-gonz%C3%A1lez-4a85a2292/) | [Instagram](https://www.instagram.com/l_starmise/) | [Twitter](https://x.com/kyrbowithY) | [Spotify](https://open.spotify.com/user/lu1srm27?si=fdaf04db03cf496a)
+[LinkedIn](https://www.linkedin.com/in/luis-angel-rosaldo-gonz%C3%A1lez-4a85a2292/) |
+[Instagram](https://www.instagram.com/l_starmise/) |
+[Twitter/X](https://x.com/kyrbowithY) |
+[Spotify](https://open.spotify.com/user/lu1srm27)
+
 
 
 <!--
 **Starmise/Starmise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
