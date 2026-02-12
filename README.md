@@ -28,7 +28,7 @@ Currently open to **junior / trainee opportunities** in game development or soft
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal,git,github,visualstudio,vscode,css,html,blender,photoshop,illustrator,figma,firebase,python,flutter,dart,robloxstudio,sass,pycharm,py,notion,discord&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal,git,github,visualstudio,vscode,css,html,blender,photoshop,illustrator,figma,firebase,flutter,dart,robloxstudio,sass,pycharm,py,notion,discord&perline=6" />
   </a>
 </p>
 
